@@ -9,4 +9,4 @@ Konsol tabanlı Windows bakım aracı: kategorili yazılım havuzu ve winget ile
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
